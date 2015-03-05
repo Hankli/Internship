@@ -1,0 +1,15 @@
+<VRPluginState>
+  <VRConnectionManager>
+    <VRPNConnection name="vrconn" address="Mouse0@localhost">
+      <Button id="1" name="mousebutton"/>
+    </VRPNConnection>
+  </VRConnectionManager>
+  <VRInteractorStyles>
+    <Style class="vtkVRGrabWorldStyle" proxyName="(unknown)" proxy="3768" property="Visibility">
+      <Button role="Reset world" name="vrconn.mousebutton"/>
+      <Button role="Rotate world" name="vrconn.mousebutton"/>
+      <Button role="Translate world" name="vrconn.mousebutton"/>
+      <Tracker role="Tracker" name=""/>
+    </Style>
+  </VRInteractorStyles>
+</VRPluginState>
