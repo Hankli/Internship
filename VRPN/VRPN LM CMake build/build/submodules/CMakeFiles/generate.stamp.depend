@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Users/Hannah/vrpn-leap/vrpn/submodules/CMakeLists.txt
+C:/Users/Hannah/vrpn-leap/vrpn/submodules/hidapi.cmake
+C:/Users/Hannah/vrpn-leap/vrpn/submodules/jsoncpp.cmake
